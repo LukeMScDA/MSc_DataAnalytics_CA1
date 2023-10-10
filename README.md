@@ -2,6 +2,9 @@
 Git for first CA in MSc for DA in CCT Dublin
 
 # CA Description 
+This project is a comparitive analysis of the populaton of Ireland, with the birthrates of Ireland, to another country fruther in the aging country demographic. The planned country for this will be Japan and/or South Korea. 
+
+I may then try to use this data to determain the possible impact to the future generations regaring tax/the burden on these generations.  
 
 # Data Set Sources
 
