@@ -9,6 +9,10 @@ I may then try to use this data to determain the possible impact to the future g
 # Data Set Sources
 
 - https://data.cso.ie/product/pme
+- https://population.un.org/wpp/Download/Standard/Population/
+- https://www.macrotrends.net/countries/JPN/japan/population-growth-rate#:~:text=The%20current%20population%20of%20Japan,a%200.43%25%20decline%20from%202019.
+- https://www.stat.go.jp/english/data/kokusei/index.html
+- 
 
 
 # Contributors: 
